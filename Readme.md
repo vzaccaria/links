@@ -26,15 +26,25 @@
 	
 * Web design / Web apps
 
-	* Javascript patterns
-		* [OOP IS NOT YOUR HAMMER](http://html5hub.com/oop-is-not-your-hammer/#i.1x0udle1e2vfcd)
-
-	* Asynchronous libraries
-	
+	* Javascript programming
+		* [OOP is not your hammer](http://html5hub.com/oop-is-not-your-hammer/#i.1x0udle1e2vfcd)
 		* [The State Machines of Core.Async](http://hueypetersen.com/posts/2013/08/02/the-state-machines-of-core-async/)
-	* CSS/Interface
-		* [movejs](http://visionmedia.github.io/move.js/)
+	
+	* Deployment (PaaS):
+		
+		* [AppFog](http://net.tutsplus.com/tutorials/javascript-ajax/going-live-with-node/)
+		
+	* Development best practices
+	
+		* [BEM method](http://bem.info/method/)
+		
+	* CSS Frameworks
+		* [UIKit](http://www.getuikit.com/)
+		* [Movejs](http://visionmedia.github.io/move.js/)
 		* [Effekt.css](http://h5bp.github.io/Effeckt.css/dist/)
+		* [Angular Animation Tutorial](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
+	
+
 	
 	* Typography
 		
