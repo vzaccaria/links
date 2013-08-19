@@ -1,14 +1,14 @@
-## General links
+# General links
 
-* Trading
+## Trading
  
-	- Arbitrage trading
-	
-		* [How to design an arbitrage trading system?](http://www.reddit.com/r/algotrading/comments/1jmmub/how_to_design_an_arbitrage_trading_system/) 
-		
+- Arbitrage trading
 
-	- Books 
+	* [How to design an arbitrage trading system?](http://www.reddit.com/r/algotrading/comments/1jmmub/how_to_design_an_arbitrage_trading_system/) 
 	
+
+- Books 
+
 * Statistics / Machine learning
 
 	* Bayesian methods
@@ -24,52 +24,75 @@
 		* [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)     
 		
 	
-* Web design / Web apps
+## Web design / Web apps
 
-	* Javascript programming
-		* [OOP is not your hammer](http://html5hub.com/oop-is-not-your-hammer/#i.1x0udle1e2vfcd)
-		* [The State Machines of Core.Async](http://hueypetersen.com/posts/2013/08/02/the-state-machines-of-core-async/)
+* Development best practices
+
+	* [BEM method](http://bem.info/method/)
+
+* Portals about design and development
+
+	* [Pineapple](http://pineapple.io/about/)
+
+* Javascript programming
+	* [OOP is not your hammer](http://html5hub.com/oop-is-not-your-hammer/#i.1x0udle1e2vfcd)
+	* [The State Machines of Core.Async](http://hueypetersen.com/posts/2013/08/02/the-state-machines-of-core-async/)
+	* [Stream Processing - Clojurescript](http://logaan.github.io/)
+		
+* Deployment (PaaS):
 	
-	* Deployment (PaaS):
-		
-		* [AppFog](http://net.tutsplus.com/tutorials/javascript-ajax/going-live-with-node/)
-		
-	* Development best practices
+	* [AppFog](http://net.tutsplus.com/tutorials/javascript-ajax/going-live-with-node/)
 	
-		* [BEM method](http://bem.info/method/)
-		
-	* CSS Frameworks
-		* [UIKit](http://www.getuikit.com/)
-		* [Movejs](http://visionmedia.github.io/move.js/)
-		* [Effekt.css](http://h5bp.github.io/Effeckt.css/dist/)
-		* [Angular Animation Tutorial](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
+	* [Strider + Docker CI](http://blog.frozenridge.co/docker-and-stridercd-brilliant-continuous-integration-in-a-box/)
+
+* Editors
+
+	* [JS Patterns for ST2](https://github.com/caiogondim/js-patterns-sublime-snippets)
+
+### Appearance 
+
+* CSS Frameworks
+	* [UIKit](http://www.getuikit.com/)
+	* [Movejs](http://visionmedia.github.io/move.js/)
+	* [Effekt.css](http://h5bp.github.io/Effeckt.css/dist/)
+	* [Angular Animation Tutorial](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
+
+* Grid/Alignment 
+
+	* [Grid based design](http://www.awwwards.com/grid-based-web-design-resources.html)
+	
+* Forms
+	
+	* [Forms + angular](http://codecanyon.net/item/formcraft-premium-wordpress-form-builder/full_screen_preview/5335056?ref=ncrafts)
+
+* Typography
+	
+	* [Practical Typography](http://practicaltypography.com/)
+* Responsive design
+
+	* Tool: [Responsive Resize (Developer Tools)](http://appshopper.com/mac/developer-tools/responsive-resize) 
 	
 
-	
-	* Typography
-		
-		* [Practical Typography](http://practicaltypography.com/)
-	* Responsive design
-	
-		* Tool: [Responsive Resize (Developer Tools)](http://appshopper.com/mac/developer-tools/responsive-resize) 
-		
+* Showcases
 
-	* HTML5 Presentations
-		* [Enhance Your Next Presentation with HTML5](http://jster.net/blog/html5-presentation-impress-reveal-deck-bespoke)
+	* [iPhone UI](http://line25.com/articles/showcase-of-beautiful-iphone-app-ui-concept-designs)
 
-	* Desktop Apps in HTML5
-		* [Node-Webkit](https://github.com/rogerwang/node-webkit)
+* HTML5 Presentations
+	* [Enhance Your Next Presentation with HTML5](http://jster.net/blog/html5-presentation-impress-reveal-deck-bespoke)
+
+* Desktop Apps in HTML5
+	* [Node-Webkit](https://github.com/rogerwang/node-webkit)
 		
-* Programming 
+## Programming 
 
-	* Future technologies
+* Future technologies
+
+	* [The Future of Programming](http://worrydream.com/dbx/)
 	
-		* [The Future of Programming](http://worrydream.com/dbx/)
-		
-	* Haskell
-	
-		* [Haskell Beats C Using Generalized Stream Fusion ](http://research.microsoft.com/en-us/um/people/simonpj/papers/ndp/haskell-beats-C.pdf)
-		
-* Freelancing
+* Haskell
 
-	* Book: [Breaking time barrier](http://breakingthetimebarrier.freshbooks.com/?ref=10005&utm_source=outreach&utm_medium=blogpost&utm_content=sixrevisions&utm_campaign=breakingthetimebarrier)
+	* [Haskell Beats C Using Generalized Stream Fusion ](http://research.microsoft.com/en-us/um/people/simonpj/papers/ndp/haskell-beats-C.pdf)
+		
+## Freelancing
+
+* Book: [Breaking time barrier](http://breakingthetimebarrier.freshbooks.com/?ref=10005&utm_source=outreach&utm_medium=blogpost&utm_content=sixrevisions&utm_campaign=breakingthetimebarrier)
