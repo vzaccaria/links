@@ -1,33 +1,6 @@
 # General links
 
-## Trading
- 
-- Arbitrage trading
 
-	* [How to design an arbitrage trading system?](http://www.reddit.com/r/algotrading/comments/1jmmub/how_to_design_an_arbitrage_trading_system/) 
-	
-
-- Books 
-
-* Statistics / Machine learning
-
-	* Bayesian methods
-
-		* [Modeling complex cause &amp; effect with Bayesian Networks](http://www.databozo.com/2013/07/28/Modeling_complex_cause_and_effect_with_Bayesian_Networks.html)
-
-		* [Probabilistic Programming for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-	
-		* [Naive Bayes course notes](http://www.inf.ed.ac.uk/teaching/courses/lfd/lectures/lfd_2005_naive.pdf)
-
-		* [Gibbs sampling for the uninitiated](http://www.cs.umd.edu/~hardisty/papers/gsfu.pdf)
-
-	* Books
-	
-		* [Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)	
-
-		* [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)     
-		
-	
 ## Web design / Web apps
 
 * Development best practices
@@ -64,6 +37,7 @@
 	* [Movejs](http://visionmedia.github.io/move.js/)
 	* [Effekt.css](http://h5bp.github.io/Effeckt.css/dist/)
 	* [Angular Animation Tutorial](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
+	* [CSS Tricks](http://css-tricks.com/gallery/)
 
 * Grid/Alignment 
 
@@ -80,9 +54,7 @@
 * Mobile/Responsive design
 
 	* Tool: [Responsive Resize (Developer Tools)](http://appshopper.com/mac/developer-tools/responsive-resize) 
-
 	* [Fluid/Mobile layout](http://blog.stevensanderson.com/2011/10/05/full-height-app-layouts-a-css-trick-to-make-it-easier/)
-	* 
 	* [Simple State Manager](http://www.jonathanfielding.com/getting-started-with-simplestatemanager-ssm/)
 
 
@@ -90,6 +62,8 @@
 * Showcases
 
 	* [iPhone UI](http://line25.com/articles/showcase-of-beautiful-iphone-app-ui-concept-designs)
+	* [Media queries - how responsive design is done.](http://mediaqueri.es/2/)
+	* [UI Patterns](http://patterntap.com/)
 
 * HTML5 Presentations
 	* [Enhance Your Next Presentation with HTML5](http://jster.net/blog/html5-presentation-impress-reveal-deck-bespoke)
@@ -105,6 +79,10 @@
 
 	* [Promise based programming](http://swannodette.github.io/2013/08/23/make-no-promises/)
 
+* CUDA/OpenCL
+
+	* [CUDA ILP](http://continuum.io/blog/cudapy_ilp_opt)
+
 * Future technologies
 
 	* [The Future of Programming](http://worrydream.com/dbx/)
@@ -112,6 +90,11 @@
 * Haskell
 
 	* [Haskell Beats C Using Generalized Stream Fusion ](http://research.microsoft.com/en-us/um/people/simonpj/papers/ndp/haskell-beats-C.pdf)
+
+* Lectures 
+
+	* [68000 resources](http://web.sunybroome.edu/~antonakos_j/68ktoc.html)
+	* [C/C++ to Assembly](http://assembly.ynh.io/)
 		
 ## Freelancing
 
@@ -122,3 +105,32 @@
 ## Other
 
 * [DSLR or not](http://blog.mingthein.com/2013/08/24/the-demise-of-the-dslr/)
+
+## Trading
+ 
+- Arbitrage trading
+
+	* [How to design an arbitrage trading system?](http://www.reddit.com/r/algotrading/comments/1jmmub/how_to_design_an_arbitrage_trading_system/) 
+	
+
+- Books 
+
+* Statistics / Machine learning
+
+	* Bayesian methods
+
+		* [Modeling complex cause &amp; effect with Bayesian Networks](http://www.databozo.com/2013/07/28/Modeling_complex_cause_and_effect_with_Bayesian_Networks.html)
+
+		* [Probabilistic Programming for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+	
+		* [Naive Bayes course notes](http://www.inf.ed.ac.uk/teaching/courses/lfd/lectures/lfd_2005_naive.pdf)
+
+		* [Gibbs sampling for the uninitiated](http://www.cs.umd.edu/~hardisty/papers/gsfu.pdf)
+
+	* Books
+	
+		* [Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)	
+
+		* [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)     
+		
+	
